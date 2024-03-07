@@ -218,7 +218,7 @@ async function handleRequest(request) {
 
 ```
 
-## Download pdf for step by step snd detailed instructions with screenshots: (https://drive.google.com/file/d/1BuL_xTf5XnlgBc7Nr-ONWydKVYlS3OOZ/view?usp=sharing)
+## Download pdf for step by step and detailed instructions with screenshots: (https://drive.google.com/file/d/1BuL_xTf5XnlgBc7Nr-ONWydKVYlS3OOZ/view?usp=sharing)
 
 
 
